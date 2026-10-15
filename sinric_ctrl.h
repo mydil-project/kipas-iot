@@ -16,8 +16,8 @@
 // Jangan gunakan credential yang sebelumnya sudah
 // terekspos di GitHub.
 
-#define APP_KEY     "d43d4bd8-0241-4997-a46d-e3ffffb0eb5f"
-#define APP_SECRET  "5853eab2-8c69-497f-8eaa-fcd9e28d02b8-b97279cc-2f7c-4487-bc10-364eb25f49ac"
+#define APP_KEY     "APP-KEY-ANDA"
+#define APP_SECRET  "APP-SECRET-ANDA"
 
 
 /* =====================================================
@@ -25,9 +25,9 @@
    ===================================================== */
 
 static const char* switchID[3] = {
-  "6a8871c829c6be334299415f",
-  "6a887202969af7ec248d2b88",
-  "6a88721a969af7ec248d2bb7"
+  "SWITCH-ID-ANDA-1",
+  "SWITCH-ID-ANDA-2",
+  "SWITCH-ID-ANDA-3"
 };
 
 

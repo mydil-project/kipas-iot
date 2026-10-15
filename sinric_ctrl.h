@@ -12,10 +12,6 @@
    SINRIC PRO CONFIGURATION
    ===================================================== */
 
-// WAJIB gunakan credential baru.
-// Jangan gunakan credential yang sebelumnya sudah
-// terekspos di GitHub.
-
 #define APP_KEY     "APP-KEY-ANDA"
 #define APP_SECRET  "APP-SECRET-ANDA"
 
